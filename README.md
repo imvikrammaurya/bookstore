@@ -1,10 +1,6 @@
-# HR Book Store
+# Book Store
 
-Welcome to HR Book Store, a MERN stack project designed to provide a seamless book store experience. This app/website allows users to explore a wide range of books, read reviews, and contribute their own feedback to help fellow readers make informed choices. We are continuously working to enhance this platform by adding new functionalities to improve the overall book store experience.
-
-## Live Link
-
-Access the live version of HR Book Store at [hr-book-store.vercel.app](https://hr-book-store.vercel.app/).
+Welcome toBook Store, a MERN stack project designed to provide a seamless book store experience. This app/website allows users to explore a wide range of books, read reviews, and contribute their own feedback to help fellow readers make informed choices. We are continuously working to enhance this platform by adding new functionalities to improve the overall book store experience.
 
 ## Features
 
@@ -25,37 +21,19 @@ HR Book Store is built using the MERN stack, which includes the following techno
 - React: A JavaScript library for building user interfaces, used to create an interactive and dynamic frontend.
 - Node.js: A JavaScript runtime environment used to run server-side code and handle backend operations.
 
-## Getting Started
+## ScreenShort Of My Website
 
-To get started with HR Book Store, follow these steps:
-
-1. Clone the repository.
-2. Install the required dependencies by running `npm install` in both the frontend and backend directories.
-3. Configure the MongoDB connection string and other environment variables.
-4. Start the backend server by running `npm start` in the backend directory.
-5. Start the frontend development server by running `npm start` in the client directory.
-
-## Environment Variables
-
-The following environment variables are required to run the HR Book Store application:
-
-- `URL_DB`: The URL or connection string for the MongoDB database.
-- `JWT_TOKEN`: The secret key used for JSON Web Token (JWT) generation and verification.
-- `API_KEY`: The API key required for accessing certain external APIs.
-- `EMAIL`: The email address to be used for sending emails from the application.
-- `EMAIL_PASSWORD`: The password associated with the email address.
-- `ADMINID`: Admin authentication
-- `ADMINKEY`: Admin authentication
-
-## Configuration
-
-To configure the application with the necessary environment variables, follow these steps:
-
-1. Create a new file named `.env` in the root directory of the project.
-2. Open the `.env` file in a text editor.
-3. Add the required environment variables to the file in the format `VARIABLE_NAME=VALUE`. For example:
+![1-getallbooks](https://github.com/user-attachments/assets/bd649842-d8b3-402d-850b-0d9831a62b37)
+![2-gedetailsISBN](https://github.com/user-attachments/assets/0ad73077-05ed-4bca-a397-9a00062e7263)
+![3-getbooksbyauthor](https://github.com/user-attachments/assets/42fa3ca2-f078-45de-96c9-67d54c5d15e4)
+![4-getbooksbyauthor](https://github.com/user-attachments/assets/466ff897-dfd2-4783-9441-d9d4e0ccc4ec)
+![5-getbookreview](https://github.com/user-attachments/assets/69643657-6143-4e45-b932-932280f24281)
+![6-register](https://github.com/user-attachments/assets/ff45d9a0-ba99-4e40-b56e-f91191a0f804)
+![7-login](https://github.com/user-attachments/assets/7a2dd626-4c4b-4de8-be7d-c58b72e5f397)
+![8-reviewadded](https://github.com/user-attachments/assets/98df70fa-73c1-4cbe-b66d-3f802588b74e)
+![9-deletereview](https://github.com/user-attachments/assets/6606e904-a78b-491c-9289-aee71df62bf9)
 
 
----
 
-Experience the world of literature at HR Book Store. Explore our extensive book collection, read and contribute reviews, and immerse yourself in the joy of reading. Together, let's create an exceptional book store experience for all readers.
+
+
