@@ -35,17 +35,17 @@ function Footer() {
         </div>
         <div className={style.footerCopyright}>
           <div className={style.copyright}>
-            <a rel="noreferrer" href='https://harshrastogi15.github.io/Personal/' target='_blank'>Vikram Maurya</a>
+            <a rel="noreferrer" href='https://imvikrammaurya.github.io/Personal/' target='_blank'>Vikram Maurya</a>
             <p>Copyright reserved </p>
           </div>
           <div className={style.SocialFooter}>
-            <a href='https://github.com/harshrastogi15' rel="noreferrer" target='_blank'>
+            <a href='https://github.com/imvikrammaurya' rel="noreferrer" target='_blank'>
               <FontAwesomeIcon icon={faGithub} />
             </a>
-            <a href='https://www.linkedin.com/in/harsh-rastogi-114962200' rel="noreferrer" target='_blank'>
+            <a href='https://www.linkedin.com/imvikrammaurya' rel="noreferrer" target='_blank'>
               <FontAwesomeIcon icon={faLinkedin} />
             </a>
-            <a href='https://www.instagram.com/harsh_rastogi15/' rel="noreferrer" target='_blank'>
+            <a href='https://www.instagram.com/imvikrammaurya/' rel="noreferrer" target='_blank'>
               <FontAwesomeIcon icon={faInstagram} />
             </a>
           </div>
